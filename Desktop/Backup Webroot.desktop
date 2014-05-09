@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Backup Webroot
+Comment=Erstellt eine Sicherungskopie des Web Root Verzeichnisses
+Exec=/home/developer/.local/bin/backupwebroot.sh
+Icon=gnome-run
+Path=
+Terminal=true
+StartupNotify=false
+GenericName=

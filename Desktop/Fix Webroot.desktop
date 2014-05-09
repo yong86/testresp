@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Fix Webroot
+Comment=Setzt die Dateiberechtigungen für den Webroot neu
+Exec=/home/developer/.local/bin/fixwebroot.sh
+Icon=gnome-run
+Path=
+Terminal=true
+StartupNotify=false
+GenericName=
